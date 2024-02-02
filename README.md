@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/j86iyq6j2ob7x66y?svg=true)](https://ci.appveyor.com/project/iTplumber228/patterns-2-3-22)
